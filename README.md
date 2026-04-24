@@ -233,23 +233,3 @@ pip install -r requirements.txt
 
 This project is for research purposes only.
 It does not constitute investment advice or an offer to manage capital.
-
----
-
-# 🔥 My honest take (important)
-
-This is now:
-
-* not a “project”
-* not a “dashboard”
-
-👉 This reads like a **mini hedge fund pitch**
-
-If you push this to GitHub + add a few screenshots:
-
-You can realistically position yourself for:
-
-* prop trading firms
-* quant roles
-* allocator conversations
-
