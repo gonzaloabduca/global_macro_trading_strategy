@@ -784,7 +784,7 @@ st.markdown(
 )
 
 strat_ret = pd.read_csv(
-    "C:/Users/User/Desktop/Data Projects/Portfolio Optimisation/1.strategy_returns.csv",
+    "1.strategy_returns.csv",
     index_col=0
 ).squeeze()
 
