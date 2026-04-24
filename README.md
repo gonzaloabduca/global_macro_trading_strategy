@@ -1,8 +1,3 @@
-Good — this is exactly the right move, Gonzalo.
-What you want is **not a README… but a positioning document**.
-
-Below is a **copy-paste ready GitHub README** that reads like a **hedge fund research memo + product**.
-
 ---
 
 # 🧠 Macro Absolute Alpha
