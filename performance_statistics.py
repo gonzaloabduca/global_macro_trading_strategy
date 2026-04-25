@@ -60,6 +60,11 @@ def style_dark_ax(ax, title=None, xlabel=None, ylabel=None, legend=True):
     for spine in ax.spines.values():
         spine.set_color(FG_COLOR)
 
+    if grid:
+        ax.grid(True, color=GRID_COLOR, alpha=1, linestyle="--")
+    else:
+        ax.grid(False)
+
     ax.grid(True, color=GRID_COLOR, alpha=0.35, linestyle="--")
 
     legend = ax.get_legend()
