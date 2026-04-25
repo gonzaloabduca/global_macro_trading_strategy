@@ -43,7 +43,7 @@ GRID_COLOR = "#808080"
 BG_COLOR = "#121212"
 FG_COLOR = "white"
 
-def style_dark_ax(ax, title=None, xlabel=None, ylabel=None, legend=True):
+def style_dark_ax(ax, title=None, xlabel=None, ylabel=None, legend=True, grid=True):
     
     ax.set_facecolor(BG_COLOR)
 
