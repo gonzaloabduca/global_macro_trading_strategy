@@ -39,7 +39,7 @@ set_dark_finance_theme()
 
 STRATEGY_COLOR = "#00E5FF"   # cyan
 BENCHMARK_COLOR = "#FF9F1C"  # orange
-GRID_COLOR = "#3a3a3a"
+GRID_COLOR = "#808080"
 BG_COLOR = "#121212"
 FG_COLOR = "white"
 
