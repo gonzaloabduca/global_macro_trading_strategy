@@ -39,7 +39,7 @@ set_dark_finance_theme()
 
 STRATEGY_COLOR = "#00E5FF"   # cyan
 BENCHMARK_COLOR = "#FF9F1C"  # orange
-GRID_COLOR = "#808080"
+GRID_COLOR = "white"
 BG_COLOR = "#121212"
 FG_COLOR = "white"
 
@@ -61,7 +61,7 @@ def style_dark_ax(ax, title=None, xlabel=None, ylabel=None, legend=True, grid=Tr
         spine.set_color(FG_COLOR)
 
     if grid:
-        ax.grid(True, color=GRID_COLOR, alpha=1, linestyle="--")
+        ax.grid(True, color=GRID_COLOR, alpha=0.3, linestyle="--")
     else:
         ax.grid(False)
 
