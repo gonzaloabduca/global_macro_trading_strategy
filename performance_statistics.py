@@ -61,7 +61,7 @@ def style_dark_ax(ax, title=None, xlabel=None, ylabel=None, legend=True, grid=Tr
         spine.set_color(FG_COLOR)
 
     if grid:
-        ax.grid(True, color=GRID_COLOR, alpha=0.3, linestyle="--")
+        ax.grid(True, color=GRID_COLOR, alpha=0.5, linestyle="--")
     else:
         ax.grid(False)
 
